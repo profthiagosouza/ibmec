@@ -16,7 +16,7 @@
 | 31/03/2025 | Orientação a objetos em Kotlin: classes e objetos, herança, polimorfismo e encapsulamento. |
 | 07/04/2025 | **Aplicação da AP1** |
 | 14/04/2025 | **Feriado de Tiradentes** |
-| 21/04/2025 | Android Studio. Testes de unidade em Kotlin |
+| 21/04/2025 | Vista da AP1. Android Studio. Testes de unidade em Kotlin |
 | 28/04/2025 | Activities |
 | 05/05/2025 | Layouts |
 | 12/05/2025 | Intents |
