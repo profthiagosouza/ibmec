@@ -13,7 +13,7 @@
 | 01/09/2025 | Sintaxe da linguagem Kotlin: operadores, tipos de dados, variáveis. |
 | 08/09/2025 | Sintaxe da linguagem Kotlin: variáveis e listas mutáveis e imutáveis, estruturas condicionais e de repetição. |
 | 15/09/2025 | Orientação a objetos em Kotlin: classes e objetos, herança, polimorfismo e encapsulamento. |
-| 22/09/2025 |          |
+| 22/09/2025 | Revisão para AP1 |
 | 29/09/2025 | **Aplicação da AP1** |
 | 06/10/2025 | Android Studio. Activities |
 | 13/10/2025 | Feriado - Dia do Professor |
